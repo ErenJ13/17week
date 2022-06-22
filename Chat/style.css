@@ -1,0 +1,11 @@
+.container{
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+.newComment{
+    background-color: rgb(133, 0, 169);
+    color: rgb(255, 255, 255);
+}
